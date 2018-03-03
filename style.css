@@ -1,0 +1,15 @@
+h1 {
+	font-size: 2em;
+	font-weight: bolder;
+	text-align: left;
+}
+body{
+	background-color: grey;
+}
+img {
+	width: 450px;
+}
+a {
+	color: blue;
+	
+}
